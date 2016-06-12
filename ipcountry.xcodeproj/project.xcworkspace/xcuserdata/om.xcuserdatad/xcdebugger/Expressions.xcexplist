@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StatusMenuController.updateAll() -&gt; ():StatusMenuController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "getIFAddresses() -&gt; [String]:GetIPAddress.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AF_INET">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
